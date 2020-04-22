@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ties_sqlite", "ties_sqlite\ties_sqlite.csproj", "{2397D8AF-198D-474B-9BA4-FC8C823D189A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2397D8AF-198D-474B-9BA4-FC8C823D189A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2397D8AF-198D-474B-9BA4-FC8C823D189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2397D8AF-198D-474B-9BA4-FC8C823D189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2397D8AF-198D-474B-9BA4-FC8C823D189A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B648052-519F-4272-B77E-199F25C98597}
+	EndGlobalSection
+EndGlobal
